@@ -49,5 +49,5 @@ function exampleFunction(employees) {
 }
 
 // uncomment to observe example
-// console.log(exampleFunction(employees));
+console.log(exampleFunction(employees));
 
